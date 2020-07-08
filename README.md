@@ -1,4 +1,3 @@
 # Express API template
-
-# initialize the project folder as a git repository
-git init"# express-api" 
+[![Build Status](https://travis-ci.com/prakash32596/express-api.svg?branch=master)](https://travis-ci.com/prakash32596/express-api)
+ 
